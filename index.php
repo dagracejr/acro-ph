@@ -1,5 +1,5 @@
 <?php
-include_once 'functions/browserchecker.php';
+include_once 'functions/browserchecker.ph';
 ?>
 <!DOCTYPE html>
 <html>
